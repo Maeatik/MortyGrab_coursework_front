@@ -1,6 +1,6 @@
-# rss-client
+# Morty Grab
 
-> Rss Client Project
+> Morty Grab Course work
 
 ## Build Setup
 
